@@ -1,0 +1,41 @@
+{
+  "name": "Backbone.ModelBinder",
+  "description": "Simple, flexible and powerful Model-View binding for Backbone.",
+  "version": "1.0.4",
+  "homepage": "https://github.com/theironcook/Backbone.ModelBinder",
+  "keywords": [
+    "backbone",
+    "plugin",
+    "computed",
+    "field",
+    "model",
+    "client",
+    "browser"
+  ],
+
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/theironcook/Backbone.ModelBinder#legal-info-mit-license"
+    }
+  ],
+
+  "author": {
+    "name": "Henry Schein",
+    "web": "https://github.com/theironcook"
+  },
+
+  "bugs": {
+    "web": "https://github.com/theironcook/Backbone.ModelBinder/issues"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theironcook/Backbone.ModelBinder.git"
+  },
+
+  "github": "https://github.com/theironcook/Backbone.ModelBinder",
+
+  "devDependencies": {
+  }
+}
